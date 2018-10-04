@@ -4,6 +4,9 @@ Let's Take it to the Edge! (IoT Edge, AI, Machine Learning and Cognitive Service
 The Azure IoT Edge service is meant for customers who want to analyze data on devices, a.k.a. "at the edge", instead of in the cloud. By moving parts of your workload to the edge, your devices can spend less time sending messages to the cloud and react more quickly to changes in status.
 Azure IoT Edge moves cloud analytics and custom business logic to devices so that your organization can focus on business insights instead of data management. Enable your solution to truly scale by configuring your IoT software, deploying it to devices via standard containers, and monitoring it all from the cloud.  
 
+You need Azure Subscription to complete this hands-on session. If you do not have one you can sign up here for a free account:  
+https://azure.microsoft.com/en-us/free  
+
 ## Pre-work
 There is prework that needs to be done in advance as this deployment phase of Kubernetes takes a while about 15 mins.  The deployment of Kubernetes is required during the milestone 3 stage. It is recommended that you initialize this and let it run in the background. 
 
