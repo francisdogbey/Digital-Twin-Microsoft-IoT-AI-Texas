@@ -40,10 +40,11 @@ Create the VM in it's own resource group
 Got To the Resource Group created for IoT Edge and select the VM. Click Connect button to get the ssh command to connect to the VM.  
 ![image](https://user-images.githubusercontent.com/16392516/46484323-28ae6980-c7bf-11e8-82b2-ed0b120e3419.png)  
 
-Once the deployment is you will need to complete the following operations for you:
-	1. Stand up an Data Science VM and IoT Hub.
-	2. Install the IoT Edge runtime and az CLI in the VM.
-	3. Open ports to allow SSH access to the Data science VM.
+Once the deployment is done you will need to complete the following operations for you:  
+1. Stand up an Data Science VM and IoT Hub.  
+2. Install the IoT Edge runtime and az CLI in the VM.  
+3. Open ports to allow SSH access to the Data science VM.  
+	
 Once the deployment is completed, pin it to your dashboard and you will see a VM and IoT Hub resources in the tile.
 
 ![image](https://user-images.githubusercontent.com/16392516/46484405-585d7180-c7bf-11e8-9c09-6df18fa16245.png)  
