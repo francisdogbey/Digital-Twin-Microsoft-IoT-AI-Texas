@@ -1,0 +1,2 @@
+# Digital-Twin-Microsoft-IoT-AI-Texas
+Meetup content with complete hands-on real-life deployment of the intelligent edge with Azure IoT Edge, AI, Machine Learning Cognitive Services. Azure IoT Edge is an Internet of Things (IoT) service that builds on top of IoT Hub. We will learn to deploy IoT Edge AI module using Kubernetes at scale for production grade enterprise deployment. This IoT Edge AI module with cognitive services custom vison AI will enable us do object detection.
